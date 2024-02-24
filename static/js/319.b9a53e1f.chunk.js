@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktest=self.webpackChunktest||[]).push([[319],{6319:(e,t,s)=>{s.r(t),s.d(t,{default:()=>c});var n=s(5043),o=s(3216),u=s(579);const c=e=>{const t=(0,o.Zp)(),{Component:s}=e,[c,a]=(0,n.useState)(!1);return(0,n.useEffect)((()=>{const e=sessionStorage.getItem("token");a(!!e),e||t("/login")}),[t]),c?(0,u.jsx)(s,{}):c}}}]);
+//# sourceMappingURL=319.b9a53e1f.chunk.js.map
